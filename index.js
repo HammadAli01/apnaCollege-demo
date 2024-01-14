@@ -1,2 +1,2 @@
 console.log("hammad ali");
-console.log("the github");
+console.log("the github master");
